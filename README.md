@@ -3,8 +3,6 @@
 A production-ready, secure REST API built with **Node.js**, **Express**, and **Native MongoDB Driver** (no Mongoose).
 This project demonstrates advanced backend concepts including **Layered Architecture**, **RBAC**, **JWT via HttpOnly Cookies**, and **Docker Containerization**.
 
-> **Assignment 4:** Web Technologies 2 (Backend)
-
 ---
 
 ## 🚀 Features & Highlights
